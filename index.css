@@ -1,0 +1,38 @@
+body {background-color: rgb(243, 248, 178);}
+h1 {
+    display: inline;
+    color: rgb(44, 182, 44);
+    text-align: center; 
+    margin-left: 14cm;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+h2{
+    text-align: center; 
+    color: rgb(10, 133, 190);
+    font-size:  xx-large;
+
+}
+blockquote { 
+    display: inline;
+    color: black;
+    margin-left: 0cm;
+   
+}
+#number {   
+font-family: serif;
+font-weight: 600;
+}
+p{
+    margin-left: 12cm;
+    margin-right: 12cm;
+    text-align: center;
+}
+#site {
+    text-align: center;
+    color: rgb(10, 133, 190);
+}
+a, u { 
+    text-decoration: none;
+    color: rgb(10, 133, 190);
+}
